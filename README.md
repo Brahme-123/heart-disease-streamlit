@@ -3,8 +3,7 @@
 This project is a simple yet practical machine learning-based tool that predicts the likelihood of heart disease in a person based on various medical features. The goal is to assist in early diagnosis and risk assessment using a quick and non-invasive method. It’s built using Python, trained with real-world data, and deployed using Streamlit for easy access.
 
 🔗 **Live Demo:**  
-[Click here to try the app](https://heartdiseaseprediction-cga7ejarf8ykjlyuw7vhcu.streamlit.app/#913007c6)
-
+[Click here to try the app]
 ---
 
 ## About the Project
